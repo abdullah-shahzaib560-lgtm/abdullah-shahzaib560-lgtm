@@ -9,7 +9,7 @@ Focused on offensive security, web application testing, and building practical s
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdullah--shahzaib560--lgtm-181717?style=for-the-badge&logo=github)](https://github.com/abdullah-shahzaib560-lgtm)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:abdullahshahzaib560@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdullahshahzaib560@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:abdullahshahzaib560@gmail.com)
 
 </div>
 
